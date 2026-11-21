@@ -2,6 +2,10 @@
 
 **Aura Enterprise Engine** is a high-throughput inventory and real-time analytics API built with Node.js, Express, and MongoDB. It supports indexed search and filtering across 50,000+ retail SKUs, server-side pagination, inventory CRUD, and MongoDB aggregation-based analytics.
 
+## Deployment
+
+- **API** [https://aura-engine-l9wa.onrender.com](https://aura-engine-l9wa.onrender.com)
+
 ## Features
 
 - Indexed search across product names and SKUs
